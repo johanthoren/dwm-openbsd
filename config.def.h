@@ -196,7 +196,6 @@ static const char *const autostart[] = {
   "dunst", NULL,
   "xbanish", NULL,
   "numlockx", NULL,
-  "nm-applet", NULL,
   "picom", NULL,
   "dwmblocks", NULL,
   NULL /* terminate */
